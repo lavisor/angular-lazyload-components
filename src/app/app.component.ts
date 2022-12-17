@@ -1,4 +1,5 @@
 import { Component , ViewContainerRef , ViewChild , Compiler, Injector} from '@angular/core';
+import { SockettestComponent } from './sockettest/sockettest.component';
 
 @Component({
   selector: 'app-root',
